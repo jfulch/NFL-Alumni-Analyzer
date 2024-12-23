@@ -36,8 +36,6 @@ thefuzz==0.22.1
         - [Defensive Performance By College](https://jfulch.github.io/NFL-Alumni-Analyzer-GH-Pages/Defensive_performance_by_college.html)
         - [Offensive Performance By College](https://jfulch.github.io/NFL-Alumni-Analyzer-GH-Pages/Offensive_performance_by_college.html)
 
-- [Final Project Report](results/final-project-report.pdf)
-
 ### Instructions on how to run code:
 
 1. Clone the repository to your local machine.
@@ -75,8 +73,3 @@ python analyze_data.py
     - [A folder containing the results of the analysis](results)
     - [A folder of png images for some of the plots](/results/images/)
     - [A folder of interactive plotly charts](/results/interactive/)
-
-
-### Final Project Report
-
-- [Final Project Report](results/final-project-report.pdf)
