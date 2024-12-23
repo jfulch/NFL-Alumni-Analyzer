@@ -29,9 +29,9 @@ thefuzz==0.22.1
 - [PNG Plots & Charts (pie chart, bar chart & heat map)](results/images/)
 - Interactive Plotly Scatter Charts
     - [Raw HTML](results/interactive)
-    - [Deployed Plotly Charts Home](https://jfulch.github.io/NFL-Alumni-Analyzer-GH-Pages/)
-        - [Defensive Performance By College](https://jfulch.github.io/NFL-Alumni-Analyzer-GH-Pages/Defensive_performance_by_college.html)
-        - [Offensive Performance By College](https://jfulch.github.io/NFL-Alumni-Analyzer-GH-Pages/Offensive_performance_by_college.html)
+    - [Deployed Plotly Charts Home](https://jfulch.github.io/NFL-Alumni-Analyzer/)
+        - [Defensive Performance By College](https://jfulch.github.io/NFL-Alumni-Analyzer/Defensive_performance_by_college.html)
+        - [Offensive Performance By College](https://jfulch.github.io/NFL-Alumni-Analyzer/Offensive_performance_by_college.html)
 
 ### Instructions on how to run code:
 
