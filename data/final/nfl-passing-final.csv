@@ -1,0 +1,99 @@
+PLR_NAME,Player,Team ABR,Team,RK,GP,CMP,ATT,CMP%,YDS,AVG,YDS/G,LNG,TD,INT,SACK,SYL,QBR,RTG,Position,College,School,Conference
+Joe Burrow,Joe Burrow,CIN,Cincinnati,1,15,384,557,68.9,4229,7.6,281.9,70,39,8,37,219,74.3,108.5,QB,Louisiana State,Louisiana,Sun Belt
+Jared Goff,Jared Goff,DET,Detroit,2,15,337,472,71.4,4095,8.7,273.0,82,33,10,27,203,66.3,112.2,QB,California,California,ACC
+Geno Smith,Geno Smith,SEA,Seattle,3,15,370,528,70.1,3937,7.5,262.5,71,17,15,45,308,53.4,90.4,QB,West Virginia,West Virginia,Big 12
+Baker Mayfield,Baker Mayfield,TB,Tampa Bay,4,15,359,506,70.9,3920,7.7,261.3,57,34,15,37,233,57.3,103.5,QB,Oklahoma,Oklahoma,SEC
+Lamar Jackson,Lamar Jackson,BAL,Baltimore,5,15,290,427,67.9,3787,8.9,252.5,84,37,4,22,146,75.5,120.6,QB,Louisville,Louisville,ACC
+Lamar Jackson,Lamar Jackson,BAL,Atlanta,5,15,290,427,67.9,3787,8.9,252.5,84,37,4,22,146,75.5,120.6,DB,Nebraska,Nebraska,Big Ten
+Sam Darnold,Sam Darnold,MIN,Minnesota,6,15,310,461,67.2,3776,8.2,251.7,97,32,11,45,306,62.0,105.4,QB,Southern California,Southern California,Big Ten
+Patrick Mahomes,Patrick Mahomes,KC,Kansas City,7,15,363,543,66.9,3608,6.6,240.5,54,23,11,36,239,66.8,91.2,QB,Texas Tech,Texas Tech,Big 12
+Matthew Stafford,Matthew Stafford,LAR,LA Rams,8,15,323,485,66.6,3573,7.4,238.2,69,20,8,28,213,65.6,95.2,QB,Georgia,Georgia,SEC
+Josh Allen,Josh Allen,BUF,Buffalo,9,15,291,456,63.8,3549,7.8,236.6,64,26,6,14,63,76.7,101.2,QB,Wyoming,Wyoming,Mountain West
+Aaron Rodgers,Aaron Rodgers,NYJ,NY Jets,10,15,333,530,62.8,3511,6.6,234.1,71,24,8,33,259,52.2,90.8,QB,California,California,ACC
+Kirk Cousins,Kirk Cousins,ATL,Atlanta,11,14,303,453,66.9,3508,7.7,250.6,60,18,16,28,201,52.0,88.6,QB,Michigan State,Michigan,Big Ten
+C.J. Stroud,C.J. Stroud,HOU,Houston,12,15,313,495,63.2,3492,7.1,232.8,67,19,11,47,371,51.4,87.7,QB,Ohio State,Ohio State,Big Ten
+Brock Purdy,Brock Purdy,SF,San Francisco,13,14,273,420,65.0,3487,8.3,249.1,76,17,10,29,144,65.2,94.4,QB,Iowa State,Iowa,Big Ten
+Jayden Daniels,Jayden Daniels,WSH,Washington,14,15,301,432,69.7,3303,7.6,220.2,86,22,8,38,189,71.9,101.3,QB,Louisiana State,Louisiana,Sun Belt
+Kyler Murray,Kyler Murray,ARI,Arizona,15,15,314,458,68.6,3288,7.2,219.2,60,16,9,26,182,67.6,92.6,QB,Oklahoma,Oklahoma,SEC
+Caleb Williams,Caleb Williams,CHI,Chicago,16,15,314,505,62.2,3271,6.5,218.1,47,19,5,60,413,47.7,89.3,QB,Southern California,Southern California,Big Ten
+Justin Herbert,Justin Herbert,LAC,LA Chargers,17,15,278,430,64.7,3243,7.5,216.2,66,18,3,40,234,59.7,98.4,QB,Oregon,Oregon,Big Ten
+Bo Nix,Bo Nix,DEN,Denver,18,15,326,507,64.3,3235,6.4,215.7,93,22,11,22,185,53.2,87.7,QB,Oregon,Oregon,Big Ten
+Jordan Love,Jordan Love,GB,Green Bay,19,12,226,355,63.7,2953,8.3,246.1,70,23,11,11,77,66.0,98.5,QB,Utah State,Utah,Big 12
+Jalen Hurts,Jalen Hurts,PHI,Philadelphia,20,15,248,361,68.7,2903,8.0,193.5,67,18,5,38,271,66.3,103.7,QB,Oklahoma,Oklahoma,SEC
+Tua Tagovailoa,Tua Tagovailoa,MIA,Miami,21,11,291,399,72.9,2867,7.2,260.6,80,19,7,21,154,59.7,101.4,QB,Alabama,Alabama,SEC
+Drake Maye,Drake Maye,NE,New England,22,11,213,315,67.6,2159,6.9,196.3,40,14,10,29,190,60.0,88.6,QB,North Carolina,North Carolina,ACC
+Derek Carr,Derek Carr,NO,New Orleans,23,10,189,279,67.7,2145,7.7,214.5,71,15,5,8,48,64.6,101.0,QB,Fresno State,Fresno St.,Mountain West
+Russell Wilson,Russell Wilson,PIT,Pittsburgh,24,9,174,268,64.9,2129,7.9,236.6,46,15,4,24,147,53.5,101.7,QB,Wisconsin,Wisconsin,Big Ten
+Jameis Winston,Jameis Winston,CLE,Cleveland,25,12,181,296,61.1,2121,7.2,176.8,89,13,12,24,130,57.4,80.6,QB,Florida State,Florida,SEC
+Daniel Jones,Daniel Jones,NYG,Minnesota,26,10,216,341,63.3,2070,6.1,207.0,43,8,7,29,172,47.6,79.4,QB,Duke,Duke,ACC
+Trevor Lawrence,Trevor Lawrence,JAX,Jacksonville,27,10,172,284,60.6,2045,7.2,204.5,85,11,7,18,140,58.7,85.2,QB,Clemson,Clemson,ACC
+Gardner Minshew,Gardner Minshew,LV,Las Vegas,28,10,203,306,66.3,2013,6.6,201.3,57,9,10,29,164,38.1,81.0,QB,Washington State,Washington,Big Ten
+Dak Prescott,Dak Prescott,DAL,Dallas,29,8,185,286,64.7,1978,6.9,247.3,65,11,8,21,112,46.8,86.0,QB,Mississippi State,Mississippi St.,SEC
+Bryce Young,Bryce Young,CAR,Carolina,30,12,194,322,60.2,1949,6.1,162.4,83,10,9,24,148,47.2,76.2,QB,Alabama,Alabama,SEC
+Will Levis,Will Levis,TEN,Tennessee,31,11,181,284,63.7,1916,6.7,174.2,98,12,12,40,225,30.2,79.8,QB,Kentucky,Kentucky,SEC
+Anthony Richardson,Anthony Richardson,IND,Indianapolis,32,11,126,264,47.7,1814,6.9,164.9,69,8,12,14,115,47.2,61.6,QB,Florida,Florida,SEC
+Cooper Rush,Cooper Rush,DAL,Dallas,33,11,172,280,61.4,1697,6.1,154.3,64,11,3,12,88,40.8,87.2,QB,Central Michigan,Michigan,Big Ten
+Mac Jones,Mac Jones,JAX,Jacksonville,34,8,136,208,65.4,1273,6.1,159.1,62,5,7,10,80,36.0,76.1,QB,Alabama,Alabama,SEC
+Mason Rudolph,Mason Rudolph,TEN,Tennessee,35,6,120,188,63.8,1267,6.7,211.2,47,8,8,7,48,54.4,79.8,QB,Oklahoma State,Oklahoma,SEC
+Joe Flacco,Joe Flacco,IND,Indianapolis,36,6,113,170,66.5,1167,6.9,194.5,65,9,5,13,101,54.7,91.5,QB,Delaware,,
+Aidan O'Connell,Aidan O'Connell,LV,Las Vegas,37,7,110,174,63.2,1156,6.6,165.1,58,4,3,9,72,39.5,82.9,QB,Purdue,Purdue,Big Ten
+Deshaun Watson,Deshaun Watson,CLE,Cleveland,38,7,137,216,63.4,1148,5.3,164.0,35,5,3,33,191,23.1,79.0,QB,Clemson,Clemson,ACC
+Justin Fields,Justin Fields,PIT,Pittsburgh,39,10,106,161,65.8,1106,6.9,110.6,55,5,1,16,124,53.4,93.3,QB,Ohio State,Ohio State,Big Ten
+Andy Dalton,Andy Dalton,CAR,Carolina,40,6,106,160,66.3,989,6.2,164.8,39,7,6,7,37,56.5,82.0,QB,Texas Christian,Texas,SEC
+Jacoby Brissett,Jacoby Brissett,NE,New England,41,7,94,159,59.1,828,5.2,118.3,50,2,1,18,119,43.6,74.6,QB,North Carolina State,North Carolina,ACC
+Spencer Rattler,Spencer Rattler,NO,New Orleans,42,4,69,120,57.5,706,5.9,176.5,41,2,2,14,73,41.1,73.1,QB,South Carolina,South Carolina,SEC
+Drew Lock,Drew Lock,NYG,NY Giants,43,6,68,129,52.7,624,4.8,104.0,23,1,4,12,88,33.0,55.8,QB,Missouri,Missouri,SEC
+Desmond Ridder,Desmond Ridder,LV,Las Vegas,44,5,51,83,61.4,447,5.4,89.4,28,2,2,10,64,30.5,73.7,QB,Cincinnati,Cincinnati,Big 12
+Malik Willis,Malik Willis,GB,Green Bay,45,5,29,39,74.4,380,9.7,76.0,51,3,0,5,16,88.9,130.3,QB,Liberty,Liberty,CUSA
+Tyler Huntley,Tyler Huntley,MIA,Miami,46,3,39,66,59.1,377,5.7,125.7,25,1,1,7,45,23.9,73.9,QB,Utah,Utah,Big 12
+Tim Boyle,Tim Boyle,MIA/NYG,NY Giants,47,3,27,50,54.0,276,5.5,92.0,30,1,1,2,11,32.2,68.4,QB,Eastern Kentucky,Kentucky,SEC
+Tommy DeVito,Tommy DeVito,NYG,NY Giants,48,3,31,44,70.5,257,5.8,85.7,23,0,0,6,31,26.1,85.1,QB,Illinois,Illinois,Big Ten
+Dorian Thompson-Robinson,Dorian Thompson-Robinson,CLE,Cleveland,48,5,35,68,51.5,257,3.8,51.4,29,0,5,6,35,18.0,30.1,QB,UCLA,UCLA,Big Ten
+Michael Penix Jr.,Michael Penix,ATL,Atlanta,50,3,21,32,65.6,240,7.5,80.0,22,0,1,1,0,50.9,75.0,QB,Washington,Washington,Big Ten
+Jake Haener,Jake Haener,NO,New Orleans,51,8,18,39,46.2,226,5.8,28.3,36,1,1,6,55,13.7,62.6,QB,Fresno State,Fresno St.,Mountain West
+Marcus Mariota,Marcus Mariota,WSH,Washington,52,2,19,26,73.1,203,7.8,101.5,25,2,0,1,4,58.6,121.2,QB,Oregon,Oregon,Big Ten
+Brandon Allen,Brandon Allen,SF,San Francisco,53,3,17,30,56.7,199,6.6,66.3,31,1,2,2,2,34.8,60.3,QB,Arkansas,Arkansas,SEC
+Skylar Thompson,Skylar Thompson,MIA,Miami,54,3,21,33,63.6,187,5.7,62.3,22,0,0,6,44,3.5,78.7,QB,Kansas State,Kansas,Big 12
+Kenny Pickett,Kenny Pickett,PHI,Philadelphia,55,4,15,27,55.6,148,5.5,37.0,45,1,1,4,33,55.2,68.1,QB,Pittsburgh,Pittsburgh,ACC
+Davis Mills,Davis Mills,HOU,Houston,56,2,7,13,53.8,79,6.1,39.5,25,0,0,1,7,89.1,72.3,QB,Stanford,Stanford,ACC
+Hendon Hooker,Hendon Hooker,DET,Detroit,57,3,6,9,66.7,62,6.9,20.7,21,0,0,1,9,42.5,86.3,QB,Tennessee,Tennessee,SEC
+Nick Mullens,Nick Mullens,MIN,Minnesota,58,4,2,2,100.0,38,19.0,9.5,24,0,0,0,0,97.7,118.8,QB,Southern Mississippi,Southern Miss.,Sun Belt
+Tyrod Taylor,Tyrod Taylor,NYJ,NY Jets,59,1,6,8,75.0,36,4.5,36.0,9,1,0,0,0,95.9,122.9,QB,Virginia Tech,Virginia Tech,ACC
+Jaxon Smith-Njigba,Jaxon Smith-Njigba,SEA,Seattle,60,15,1,1,100.0,35,35.0,2.3,35,0,0,0,0,100.0,118.8,WR,Ohio State,Ohio State,Big Ten
+AJ Cole,A.J. Cole,LV,Las Vegas,61,15,1,1,100.0,34,34.0,2.3,34,0,0,0,0,100.0,118.8,P,North Carolina State,North Carolina,ACC
+Courtland Sutton,Courtland Sutton,DEN,Denver,62,15,2,2,100.0,30,15.0,2.0,28,1,0,0,0,100.0,158.3,WR,Southern Methodist,Ga. Southern,Sun Belt
+Taylor Heinicke,Taylor Heinicke,LAC,LA Chargers,63,3,3,3,100.0,28,9.3,9.3,18,0,0,3,28,6.3,105.6,QB,Old Dominion,Old Dominion,Sun Belt
+Sam Howell,Sam Howell,SEA,Seattle,64,3,5,14,35.7,24,1.7,8.0,12,0,1,4,21,3.4,14.6,QB,North Carolina,North Carolina,ACC
+Adonai Mitchell,Adonai Mitchell,IND,Indianapolis,64,15,1,1,100.0,24,24.0,1.6,24,0,0,0,0,71.5,118.8,WR,Texas,Texas,SEC
+Justin Jefferson,Justin Jefferson,MIN,Minnesota,66,15,1,1,100.0,22,22.0,1.5,22,0,0,0,0,27.7,118.8,WR,Louisiana State,Louisiana,Sun Belt
+Taysom Hill,Taysom Hill,NO,New Orleans,67,8,2,4,50.0,21,5.3,2.6,18,0,1,0,0,92.4,26.0,TE,Brigham Young,BYU,Big 12
+Cedrick Wilson Jr.,Cedrick Wilson,NO,New Orleans,67,12,1,1,100.0,21,21.0,1.8,21,1,0,0,0,100.0,158.3,WR,Boise State,Boise St.,Mountain West
+Trey Lance,Trey Lance,DAL,Dallas,67,2,4,6,66.7,21,3.5,10.5,10,0,1,2,7,4.4,32.6,QB,North Dakota State,NC State,ACC
+Carson Wentz,Carson Wentz,KC,Kansas City,70,2,2,2,100.0,20,10.0,10.0,12,0,0,0,0,35.7,108.3,QB,North Dakota State,NC State,ACC
+Kyle Allen,Kyle Allen,PIT,Pittsburgh,71,1,1,1,100.0,19,19.0,19.0,19,0,0,0,0,99.4,118.8,QB,Houston,Houston,Big 12
+Jack Fox,Jack Fox,DET,Detroit,72,15,1,1,100.0,17,17.0,1.1,17,0,0,0,0,14.6,118.8,P,Rice,Rice,The American
+Stefon Diggs,Stefon Diggs,HOU,Houston,73,8,1,1,100.0,13,13.0,1.6,13,0,0,0,0,14.6,118.8,WR,Maryland,Maryland,Big Ten
+Tyson Bagent,Tyson Bagent,CHI,Chicago,74,4,2,2,100.0,11,5.5,2.8,6,0,0,0,0,52.5,89.6,QB,Shepherd,,
+Mitchell Trubisky,Mitchell Trubisky,BUF,Buffalo,75,7,3,4,75.0,9,2.3,1.3,4,0,0,0,0,3.1,77.1,QB,North Carolina,North Carolina,ACC
+Clayton Tune,Clayton Tune,ARI,Arizona,76,5,2,2,100.0,8,4.0,1.6,7,0,0,0,0,0.3,83.3,QB,Houston,Houston,Big 12
+Amon-Ra St. Brown,Amon-Ra St. Brown,DET,Detroit,77,15,1,1,100.0,7,7.0,0.5,7,1,0,0,0,99.5,135.4,WR,Southern California,Southern California,Big Ten
+Kyle Trask,Kyle Trask,TB,Tampa Bay,78,3,1,1,100.0,5,5.0,1.7,5,0,0,0,0,89.9,87.5,QB,Florida,Florida,SEC
+Bryan Anger,Bryan Anger,DAL,Dallas,79,15,1,2,50.0,4,2.0,0.3,4,0,0,0,0,,56.3,P,California,California,ACC
+Riley Dixon,Riley Dixon,DEN,Denver,80,15,1,1,100.0,3,3.0,0.2,3,0,0,0,0,,79.2,P,Syracuse,Syracuse,ACC
+JK Scott,JK Scott,LAC,LA Chargers,80,15,1,1,100.0,3,3.0,0.2,3,0,0,0,0,100.0,79.2,P,Alabama,Alabama,SEC
+David Montgomery,David Montgomery,DET,Detroit,80,14,1,1,100.0,3,3.0,0.2,3,1,0,0,0,100.0,118.8,RB,Iowa State,Iowa,Big Ten
+Josh Johnson,Josh Johnson,BAL,Baltimore,83,4,1,1,100.0,1,1.0,0.3,1,0,0,1,5,1.6,79.2,QB,San Diego,San Diego St.,Mountain West
+Johnny Hekker,Johnny Hekker,CAR,Carolina,84,15,0,2,0.0,0,0.0,0.0,0,0,0,0,0,,39.6,P,Oregon State,Oregon,Big Ten
+Miles Killebrew,Miles Killebrew,PIT,Pittsburgh,84,15,0,1,0.0,0,0.0,0.0,0,0,0,0,0,3.8,39.6,DB,Southern Utah,Utah,Big 12
+Tyler Boyd,Tyler Boyd,TEN,Tennessee,84,15,0,1,0.0,0,0.0,0.0,0,0,0,0,0,3.8,39.6,WR,Pittsburgh,Pittsburgh,ACC
+Kendrick Bourne,Kendrick Bourne,NE,New England,84,10,0,1,0.0,0,0.0,0.0,0,0,0,0,0,3.6,39.6,WR,Eastern Washington,Washington,Big Ten
+Joe Mixon,Joe Mixon,HOU,Houston,84,12,0,1,0.0,0,0.0,0.0,0,0,0,0,0,0.9,39.6,RB,Oklahoma,Oklahoma,SEC
+Deebo Samuel Sr.,Deebo Samuel,SF,San Francisco,84,14,0,0,0.0,0,0.0,0.0,0,0,0,1,4,0.0,39.6,WR,South Carolina,South Carolina,SEC
+DJ Moore,D.J. Moore,CHI,Chicago,84,15,0,1,0.0,0,0.0,0.0,0,0,0,0,0,3.4,39.6,WR,Maryland,Maryland,Big Ten
+Jakobi Meyers,Jakobi Meyers,LV,Las Vegas,84,13,0,0,0.0,0,0.0,0.0,0,0,0,1,10,0.0,39.6,WR,North Carolina State,North Carolina,ACC
+Saquon Barkley,Saquon Barkley,PHI,Philadelphia,84,15,0,0,0.0,0,0.0,0.0,0,0,0,1,2,0.0,39.6,RB,Penn State,Penn St.,Big Ten
+Darnell Mooney,Darnell Mooney,ATL,Atlanta,84,15,0,1,0.0,0,0.0,0.0,0,0,0,0,0,3.8,39.6,WR,Tulane,Tulane,The American
+Ty Chandler,Ty Chandler,MIN,Minnesota,84,15,0,0,0.0,0,0.0,0.0,0,0,0,1,1,1.4,39.6,RB,North Carolina,North Carolina,ACC
+Tutu Atwell,Penei Sewell,LAR,Detroit Lions,84,15,0,1,0.0,0,0.0,0.0,0,0,0,0,0,1.8,39.6,OT,Oregon,Oregon,Big Ten
+Penei Sewell,Penei Sewell,DET,Detroit,84,15,0,0,0.0,0,0.0,0.0,0,0,0,1,1,1.8,39.6,OT,Oregon,Oregon,Big Ten
+Malik Nabers,Malik Nabers,NYG,NY Giants,84,13,0,1,0.0,0,0.0,0.0,0,0,0,0,0,2.5,39.6,WR,Louisiana State,Louisiana,Sun Belt

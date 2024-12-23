@@ -1,0 +1,311 @@
+PLR_NAME,Player,Team ABR,Team,RK,GP,ATT,YDS,AVG,LNG,BIG,TD,YDS/G,FUM,LST,FD,Position,College,School,Conference
+Saquon Barkley,Saquon Barkley,PHI,Philadelphia,1,15,314,1838,5.9,72,15,13,122.5,2,1,73,RB,Penn State,Penn St.,Big Ten
+Derrick Henry,Derrick Henry,BAL,Baltimore,2,15,278,1636,5.9,87,15,13,109.1,3,1,78,RB,Alabama,Alabama,SEC
+Kyren Williams,Kyren Williams,LAR,LA Rams,3,15,303,1243,4.1,30,2,13,82.9,5,3,84,RB,Notre Dame,Notre Dame,FBS Independent
+Bijan Robinson,Bijan Robinson,ATL,Atlanta,4,15,259,1196,4.6,37,4,10,79.7,0,0,61,RB,Texas,Texas,SEC
+Chuba Hubbard,Chuba Hubbard,CAR,Carolina,5,15,250,1195,4.8,38,8,10,79.7,1,1,62,RB,Oklahoma State,Oklahoma,SEC
+Jahmyr Gibbs,Jahmyr Gibbs,DET,Detroit,6,15,209,1156,5.5,70,9,12,77.1,0,0,57,RB,Alabama,Alabama,SEC
+Josh Jacobs,Josh Jacobs,GB,Green Bay,7,14,265,1147,4.3,38,6,12,81.9,3,2,60,RB,Alabama,Alabama,SEC
+Jonathan Taylor,Jonathan Taylor,IND,Indianapolis,8,12,237,1129,4.8,70,10,8,94.1,3,1,52,RB,Wisconsin,Wisconsin,Big Ten
+James Conner,James Conner,ARI,Arizona,9,15,232,1090,4.7,53,6,8,72.7,2,0,66,RB,Pittsburgh,Pittsburgh,ACC
+Aaron Jones,Aaron Jones,MIN,Minnesota,10,15,233,1046,4.5,41,3,5,69.7,3,1,46,RB,Texas-El Paso,Texas,SEC
+Tony Pollard,Tony Pollard,TEN,Tennessee,11,15,238,1017,4.3,41,6,5,67.8,2,2,50,RB,Memphis,Memphis,The American
+Joe Mixon,Joe Mixon,HOU,Houston,12,12,231,967,4.2,59,8,11,80.6,0,0,50,RB,Oklahoma,Oklahoma,SEC
+Alvin Kamara,Alvin Kamara,NO,New Orleans,13,14,228,950,4.2,24,3,6,67.9,0,0,52,RB,Tennessee,Tennessee,SEC
+Najee Harris,Najee Harris,PIT,Pittsburgh,14,15,238,933,3.9,36,8,5,62.2,0,0,43,RB,Alabama,Alabama,SEC
+James Cook,James Cook,BUF,Buffalo,15,14,182,928,5.1,65,6,14,66.3,1,0,43,RB,Georgia,Georgia,SEC
+Chase Brown,Chase Brown,CIN,Cincinnati,16,15,209,923,4.4,40,8,7,61.5,2,1,46,RB,Illinois,Illinois,Big Ten
+Bucky Irving,Bucky Irving,TB,Tampa Bay Buccaneers,17,15,168,920,5.5,56,6,7,61.3,2,1,43,RB,Oregon,Oregon,Big Ten
+Rico Dowdle,Rico Dowdle,DAL,Dallas,18,14,190,903,4.8,27,2,1,64.5,2,1,43,RB,South Carolina,South Carolina,SEC
+D'Andre Swift,D'Andre Swift,CHI,Chicago,19,15,221,841,3.8,56,5,5,56.1,1,0,37,RB,Georgia,Georgia,SEC
+Rhamondre Stevenson,Rhamondre Stevenson,NE,New England,20,14,205,800,3.9,33,2,7,57.1,6,3,40,RB,Oklahoma,Oklahoma,SEC
+Jordan Mason,Jordan Mason,SF,San Francisco,21,12,153,789,5.2,38,9,3,65.8,3,1,37,RB,Georgia Tech,Georgia Tech,ACC
+David Montgomery,David Montgomery,DET,Detroit,22,14,185,775,4.2,21,1,12,55.4,1,0,50,RB,Iowa State,Iowa,Big Ten
+Breece Hall,Breece Hall,NYJ,NY Jets,23,14,187,774,4.1,42,3,5,55.3,5,1,33,RB,Iowa State,Iowa,Big Ten
+J.K. Dobbins,J.K. Dobbins,LAC,LA Chargers,24,11,158,766,4.8,61,6,8,69.6,0,0,39,RB,Ohio State,Ohio State,Big Ten
+Lamar Jackson,Lamar Jackson,BAL,Baltimore,25,15,126,765,6.1,39,6,3,51.0,6,4,41,QB,Louisville,Louisville,ACC
+Lamar Jackson,Lamar Jackson,BAL,Atlanta,25,15,126,765,6.1,39,6,3,51.0,6,4,41,DB,Nebraska,Nebraska,Big Ten
+De'Von Achane,De'Von Achane,MIA,Miami,26,15,182,761,4.2,50,3,5,50.7,0,0,32,RB,Texas A&M,Texas A&M,SEC
+Jayden Daniels,Jayden Daniels,WSH,Washington,27,15,128,737,5.8,46,6,6,49.1,3,0,46,QB,Louisiana State,Louisiana,Sun Belt
+Brian Robinson Jr.,Brian Robinson,WSH,Washington,28,12,169,729,4.3,40,4,8,60.8,2,2,43,RB,Alabama,Alabama,SEC
+Tyrone Tracy Jr.,Tyrone Tracy,NYG,NY Giants,29,15,158,721,4.6,45,5,5,48.1,2,2,36,RB,Purdue,Purdue,Big Ten
+Kareem Hunt,Kareem Hunt,KC,Kansas City,30,12,191,708,3.7,20,1,6,59.0,0,0,39,RB,Toledo,Toledo,MAC
+Tank Bigsby,Cartavious Bigsby,JAX,Jacksonville,31,14,143,694,4.9,65,4,6,49.6,3,1,34,RB,Auburn,Auburn,SEC
+Jalen Hurts,Jalen Hurts,PHI,Philadelphia,32,15,150,630,4.2,35,7,14,42.0,4,2,62,QB,Oklahoma,Oklahoma,SEC
+Rachaad White,Rachaad White,TB,Tampa Bay,33,14,138,583,4.2,56,2,3,41.6,2,2,32,RB,Arizona State,Arizona,Big 12
+Tyler Allgeier,Tyler Allgeier,ATL,Atlanta,34,15,125,573,4.6,25,4,3,38.2,0,0,38,RB,Brigham Young,BYU,Big 12
+Kenneth Walker III,Kenneth Walker,SEA,Seattle,34,11,153,573,3.7,28,5,7,52.1,1,0,28,RB,Michigan State,Michigan,Big Ten
+Jerome Ford,Jerome Ford,CLE,Cleveland,36,13,98,543,5.5,66,5,3,41.8,0,0,24,RB,Cincinnati,Cincinnati,Big 12
+Kyler Murray,Kyler Murray,ARI,Arizona,37,15,71,518,7.3,50,6,5,34.5,4,3,24,QB,Oklahoma,Oklahoma,SEC
+Josh Allen,Josh Allen,BUF,Buffalo,38,15,97,514,5.3,30,5,11,34.3,1,0,49,QB,Wyoming,Wyoming,Mountain West
+Anthony Richardson,Anthony Richardson,IND,Indianapolis,39,11,86,499,5.8,29,5,6,45.4,6,1,33,QB,Florida,Florida,SEC
+Javonte Williams,Javonte Williams,DEN,Denver,40,15,134,485,3.6,20,1,4,32.3,2,2,28,RB,North Carolina,North Carolina,ACC
+Travis Etienne Jr.,Travis Etienne,JAX,Jacksonville,41,13,122,478,3.9,22,2,2,36.8,1,1,26,RB,Clemson,Clemson,ACC
+Zach Charbonnet,Zach Charbonnet,SEA,Seattle,42,15,106,453,4.3,51,3,8,30.2,0,0,27,RB,UCLA,UCLA,Big Ten
+Caleb Williams,Caleb Williams,CHI,Chicago,43,15,73,442,6.1,24,2,0,29.5,3,2,25,QB,Southern California,Southern California,Big Ten
+Antonio Gibson,Antonio Gibson,NE,New England,44,15,96,434,4.5,45,3,1,28.9,2,0,20,RB,Memphis,Memphis,The American
+Jaylen Warren,Jaylen Warren,PIT,Pittsburgh,45,13,103,419,4.1,18,0,1,32.2,1,1,24,RB,Oklahoma State,Oklahoma,SEC
+Devin Singletary,Devin Singletary,NYG,NY Giants,46,13,101,394,3.9,43,2,4,30.3,2,2,21,RB,Florida Atlantic,Florida,SEC
+Drake Maye,Drake Maye,NE,New England,47,11,48,389,8.1,41,3,2,35.4,3,1,21,QB,North Carolina,North Carolina,ACC
+Jaleel McLaughlin,Jaleel McLaughlin,DEN,Denver,48,14,87,388,4.5,21,1,1,27.7,0,0,18,RB,Youngstown State,NC State,ACC
+Isaac Guerendo,Isaac Guerendo,SF,San Francisco,49,14,73,381,5.2,76,2,4,27.2,0,0,15,RB,Louisville,Louisville,ACC
+Ray Davis,Jalyn Armour-Davis,BUF,Baltimore,50,15,92,369,4.0,22,1,3,24.6,0,0,22,DB,Alabama,Alabama,SEC
+Alexander Mattison,Alexander Mattison,LV,Las Vegas,51,12,116,368,3.2,24,1,4,30.7,1,1,23,RB,Boise State,Boise St.,Mountain West
+Gus Edwards,Gus Edwards,LAC,LA Chargers,52,11,101,365,3.6,43,1,4,33.2,0,0,17,RB,Rutgers,Rutgers,Big Ten
+Cam Akers,Cam Akers,HOU/MIN,Minnesota,53,15,92,361,3.9,25,1,2,24.1,1,1,19,RB,Florida State,Florida,SEC
+Austin Ekeler,Austin Ekeler,WSH,Washington,54,11,74,355,4.8,50,4,4,32.3,1,0,18,RB,Western State,West,Sun Belt
+Bo Nix,Bo Nix,DEN,Denver,55,15,78,352,4.5,32,5,4,23.5,1,0,33,QB,Oregon,Oregon,Big Ten
+Emanuel Wilson,Emanuel Wilson,GB,Green Bay,56,14,72,348,4.8,19,0,1,24.9,0,0,18,RB,Fort Valley State,NC State,ACC
+Nick Chubb,Nick Chubb,CLE,Cleveland,57,8,102,332,3.3,19,0,3,41.5,1,1,17,RB,Georgia,Georgia,SEC
+Brock Purdy,Brock Purdy,SF,San Francisco,58,14,63,311,4.9,16,0,4,22.2,2,0,31,QB,Iowa State,Iowa,Big Ten
+Baker Mayfield,Baker Mayfield,TB,Tampa Bay,59,15,50,308,6.2,21,1,3,20.5,9,1,21,QB,Oklahoma,Oklahoma,SEC
+Patrick Mahomes,Patrick Mahomes,KC,Kansas City,60,15,57,295,5.2,33,2,2,19.7,1,0,21,QB,Texas Tech,Texas Tech,Big 12
+Braelon Allen,Braelon Allen,NYJ,NY Jets,61,15,82,293,3.6,20,1,2,19.5,0,0,18,RB,Wisconsin,Wisconsin,Big Ten
+Isiah Pacheco,Isiah Pacheco,KC,Kansas City,62,6,77,292,3.8,34,1,1,48.7,0,0,14,RB,Rutgers,Rutgers,Big Ten
+Trey Benson,Trey Benson,ARI,Arizona,63,13,63,291,4.6,20,1,1,22.4,1,0,16,RB,Florida State,Florida,SEC
+Justin Fields,Justin Fields,PIT,Pittsburgh,64,10,62,289,4.7,30,1,5,28.9,4,0,19,QB,Ohio State,Ohio State,Big Ten
+Taysom Hill,Taysom Hill,NO,New Orleans,65,8,39,278,7.1,75,2,6,34.8,0,0,18,TE,Brigham Young,BYU,Big 12
+Raheem Mostert,Raheem Mostert,MIA,Miami,66,11,79,275,3.5,21,1,2,25.0,2,2,13,RB,Purdue,Purdue,Big Ten
+Kenneth Gainwell,Kenny Gainwell,PHI,Philadelphia,67,15,61,272,4.5,20,1,1,18.1,0,0,12,RB,Memphis,Memphis,The American
+Daniel Jones,Daniel Jones,NYG,Minnesota,68,10,67,265,4.0,24,1,2,26.5,0,0,26,QB,Duke,Duke,ACC
+Jeremy McNichols,Jeremy McNichols,WSH,Washington,69,15,54,256,4.7,28,2,4,17.1,0,0,15,RB,Boise State,Boise St.,Mountain West
+Sean Tucker,Sean Tucker,TB,Tampa Bay,70,15,40,253,6.3,36,2,2,16.9,1,0,14,RB,Syracuse,Syracuse,ACC
+Jaylen Wright,Jaylen Wright,MIA,Miami,70,13,62,253,4.1,20,1,0,19.5,1,1,10,RB,Tennessee,Tennessee,SEC
+Justin Herbert,Justin Herbert,LAC,LA Chargers,72,15,62,252,4.1,38,3,2,16.8,2,1,19,QB,Oregon,Oregon,Big Ten
+Audric Estime,Audric Estime,DEN,Denver,72,11,55,252,4.6,21,1,1,22.9,2,1,10,RB,Notre Dame,Notre Dame,FBS Independent
+Zack Moss,Zack Moss,CIN,Cincinnati,74,8,74,242,3.3,16,0,2,30.3,2,1,13,RB,Utah,Utah,Big 12
+Geno Smith,Geno Smith,SEA,Seattle,75,15,48,239,5.0,34,3,2,15.9,5,0,15,QB,West Virginia,West Virginia,Big 12
+Justice Hill,Justice Hill,BAL,Baltimore,76,15,47,228,4.9,51,2,1,15.2,0,0,14,RB,Oklahoma State,Oklahoma,SEC
+C.J. Stroud,C.J. Stroud,HOU,Houston,77,15,51,226,4.4,25,2,0,15.1,3,2,14,QB,Ohio State,Ohio State,Big Ten
+Ezekiel Elliott,Ezekiel Elliott,DAL,Dallas,78,14,71,224,3.2,11,0,3,16.0,0,0,14,RB,Ohio State,Ohio State,Big Ten
+Emari Demercado,Emari Demercado,ARI,Arizona,79,13,24,223,9.3,53,2,1,17.2,0,0,8,RB,Texas Christian,Texas,SEC
+Tyjae Spears,Tyjae Spears,TEN,Tennessee,80,11,64,217,3.4,19,0,4,19.7,0,0,13,RB,Tulane,Tulane,The American
+Bryce Young,Bryce Young,CAR,Carolina,80,12,36,217,6.0,34,3,4,18.1,1,1,11,QB,Alabama,Alabama,SEC
+Sam Darnold,Sam Darnold,MIN,Minnesota,82,15,61,205,3.4,19,0,1,13.7,3,2,22,QB,Southern California,Southern California,Big Ten
+Christian McCaffrey,Christian McCaffrey,SF,San Francisco,83,4,50,202,4.0,19,0,0,50.5,0,0,12,RB,Stanford,Stanford,ACC
+Blake Corum,Blake Corum,LAR,LA Rams,84,15,53,201,3.8,12,0,0,13.4,0,0,12,RB,Michigan,Michigan,Big Ten
+Ameer Abdullah,Ameer Abdullah,LV,Las Vegas,85,15,46,196,4.3,40,1,2,13.1,1,1,9,RB,Nebraska,Nebraska,Big Ten
+Ty Johnson,Ty Johnson,BUF,Buffalo,86,15,35,184,5.3,19,0,1,12.3,0,0,11,RB,Maryland,Maryland,Big Ten
+Zamir White,Zamir White,LV,Las Vegas,87,8,65,183,2.8,17,0,1,22.9,2,2,4,RB,Georgia,Georgia,SEC
+Sincere McCormick,Sincere McCormick,LV,Las Vegas,87,5,39,183,4.7,29,1,0,36.6,0,0,10,RB,Texas-San Antonio,Texas,SEC
+Joe Burrow,Joe Burrow,CIN,Cincinnati,89,15,37,177,4.8,47,1,1,11.8,2,0,14,QB,Louisiana State,Louisiana,Sun Belt
+Ty Chandler,Ty Chandler,MIN,Minnesota,90,15,51,175,3.4,25,1,0,11.7,0,0,8,RB,North Carolina,North Carolina,ACC
+Will Levis,Will Levis,TEN,Tennessee,90,11,41,175,4.3,21,1,0,15.9,3,2,20,QB,Kentucky,Kentucky,SEC
+Trey Sermon,Trey Sermon,IND,Indianapolis,92,15,56,159,2.8,17,0,2,10.6,0,0,14,RB,Ohio State,Ohio State,Big Ten
+Carson Steele,Carson Steele,KC,Kansas City,93,15,48,158,3.3,9,0,0,10.5,3,2,14,RB,UCLA,UCLA,Big Ten
+Chris Rodriguez Jr.,Chris Blair,WSH,Atlanta,94,7,30,157,5.2,25,1,1,22.4,0,0,8,WR,Alcorn State,NC State,ACC
+D'Onta Foreman,D'Onta Foreman,CLE,Cleveland,95,9,48,156,3.3,25,1,0,17.3,2,1,7,RB,Texas,Texas,SEC
+Jayden Reed,Jayden Reed,GB,Green Bay,96,14,16,155,9.7,33,3,1,11.1,0,0,7,WR,Michigan State,Michigan,Big Ten
+Tyler Goodson,Tyler Goodson,IND,Indianapolis,97,14,32,153,4.8,33,1,1,10.9,0,0,6,RB,Iowa,Iowa,Big Ten
+Deshaun Watson,Deshaun Watson,CLE,Cleveland,98,7,31,148,4.8,16,0,1,21.1,2,1,8,QB,Clemson,Clemson,ACC
+Roschon Johnson,Roschon Johnson,CHI,Chicago,99,12,49,142,2.9,9,0,6,11.8,0,0,16,RB,Texas,Texas,SEC
+Miles Sanders,Miles Sanders,CAR,Carolina,100,10,38,139,3.7,26,1,1,13.9,0,0,9,RB,Penn State,Penn St.,Big Ten
+Malik Willis,Malik Willis,GB,Green Bay,101,5,16,137,8.6,29,3,1,27.4,0,0,6,QB,Liberty,Liberty,CUSA
+Cordarrelle Patterson,Cordarrelle Patterson,PIT,Pittsburgh,102,11,30,132,4.4,14,0,0,12.0,1,1,7,RB,Tennessee,Tennessee,SEC
+Kimani Vidal,Kimani Vidal,LAC,LA Chargers,103,8,38,131,3.4,19,0,0,16.4,1,0,6,RB,Troy State,Troy,Sun Belt
+Drew Lock,Drew Lock,NYG,NY Giants,104,6,11,130,11.8,28,3,1,21.7,0,0,7,QB,Missouri,Missouri,SEC
+Kendre Miller,Kendre Miller,NO,New Orleans,104,4,28,130,4.6,17,0,1,32.5,0,0,9,RB,Texas Christian,Texas,SEC
+Jamaal Williams,Jamaal Williams,NO,New Orleans,106,11,35,129,3.7,14,0,1,11.7,0,0,9,RB,Brigham Young,BYU,Big 12
+Deebo Samuel Sr.,Deebo Samuel,SF,San Francisco,107,14,39,120,3.1,13,0,1,8.6,0,0,4,WR,South Carolina,South Carolina,SEC
+Trevor Lawrence,Trevor Lawrence,JAX,Jacksonville,108,10,26,119,4.6,33,1,3,11.9,0,0,13,QB,Clemson,Clemson,ACC
+D'Ernest Johnson,D'Ernest Johnson,JAX,Jacksonville,109,12,30,117,3.9,13,0,0,9.8,0,0,6,RB,South Florida,Florida,SEC
+Dorian Thompson-Robinson,Dorian Thompson-Robinson,CLE,Cleveland,110,5,15,109,7.3,34,1,0,21.8,1,0,7,QB,UCLA,UCLA,Big Ten
+Aaron Rodgers,Aaron Rodgers,NYJ,NY Jets,111,15,22,107,4.9,18,0,0,7.1,0,0,7,QB,California,California,ACC
+Dameon Pierce,Dameon Pierce,HOU,Houston,112,9,16,104,6.5,54,1,1,11.6,0,0,2,RB,Florida,Florida,SEC
+Dare Ogunbowale,Dare Ogunbowale,HOU,Houston,113,15,26,103,4.0,35,1,0,6.9,0,0,4,RB,Wisconsin,Wisconsin,Big Ten
+Chris Brooks,Christopher Brooks,GB,Green Bay,114,12,22,101,4.6,18,0,0,8.4,0,0,7,RB,Brigham Young,BYU,Big 12
+Isaiah Davis,Isaiah Davis,NYJ,NY Jets,115,15,23,98,4.3,17,0,1,6.5,0,0,6,RB,South Dakota State,NC State,ACC
+Xavier Worthy,Xavier Worthy,KC,Kansas City,116,15,18,94,5.2,21,2,3,6.3,0,0,4,WR,Texas,Texas,SEC
+Tyler Badie,Tyler Badie,DEN,Denver,117,3,11,86,7.8,43,1,0,28.7,0,0,4,RB,Missouri,Missouri,SEC
+Russell Wilson,Russell Wilson,PIT,Pittsburgh,118,9,33,84,2.5,19,0,1,9.3,2,2,8,QB,Wisconsin,Wisconsin,Big Ten
+Jameis Winston,Jameis Winston,CLE,Cleveland,119,12,25,83,3.3,13,0,1,6.9,0,0,17,QB,Florida State,Florida,SEC
+Samaje Perine,Samaje Perine,KC,Kansas City,120,15,17,82,4.8,13,0,1,5.5,0,0,7,RB,Oklahoma,Oklahoma,SEC
+Mason Rudolph,Mason Rudolph,TEN,Tennessee,121,6,19,78,4.1,14,0,1,13.0,3,1,9,QB,Oklahoma State,Oklahoma,SEC
+Kenny McIntosh,Kenny McIntosh,SEA,Seattle,122,15,17,77,4.5,16,0,0,5.1,0,0,5,RB,Georgia,Georgia,SEC
+Jordan Love,Jordan Love,GB,Green Bay,123,12,23,75,3.3,14,0,1,6.3,3,0,8,QB,Utah State,Utah,Big 12
+Pierre Strong Jr.,Pierre Strong,CLE,Cleveland,123,13,21,75,3.6,14,0,0,5.8,0,0,4,RB,South Dakota State,NC State,ACC
+Patrick Taylor Jr.,Patrick Taylor,SF,San Francisco,125,11,22,74,3.4,9,0,1,6.7,0,0,3,RB,Memphis,Memphis,The American
+Julius Chestnut,Julius Chestnut,TEN,Tennessee,125,15,17,74,4.4,12,0,0,4.9,0,0,1,RB,Sacred Heart,,
+Derek Carr,Derek Carr,NO,New Orleans,127,10,17,71,4.2,13,0,1,7.1,1,0,4,QB,Fresno State,Fresno St.,Mountain West
+CeeDee Lamb,CeeDee Lamb,DAL,Dallas,128,15,14,70,5.0,18,0,0,4.7,0,0,4,WR,Oklahoma,Oklahoma,SEC
+Sterling Shepard,Sterling Shepard,TB,Tampa Bay,129,13,8,69,8.6,24,1,0,5.3,0,0,4,WR,Oklahoma,Oklahoma,SEC
+KaVontae Turpin,KaVontae Turpin,DAL,Dallas,129,15,13,69,5.3,16,0,0,4.6,1,0,5,WR,Texas Christian,Texas,SEC
+JaMycal Hasty,JaMycal Hasty,NE,New England,129,14,20,69,3.5,15,0,0,4.9,0,0,4,RB,Baylor,Baylor,Big 12
+Craig Reynolds,Craig Reynolds,DET,Detroit,129,15,16,69,4.3,19,0,0,4.6,1,0,4,RB,Kutztown,,
+Tyler Huntley,Tyler Huntley,MIA,Miami,133,3,16,67,4.2,20,1,1,22.3,1,1,6,QB,Utah,Utah,Big 12
+Ray-Ray McCloud III,Ray Ray McCloud,ATL,Atlanta,134,15,9,65,7.2,20,1,0,4.3,0,0,2,WR,Clemson,Clemson,ACC
+Jameson Williams,Jameson Williams,DET,Detroit,135,13,9,63,7.0,15,0,0,4.8,0,0,4,WR,Alabama,Alabama,SEC
+Jacoby Brissett,Jacoby Brissett,NE,New England,136,7,15,62,4.1,16,0,0,8.9,1,0,5,QB,North Carolina State,North Carolina,ACC
+DJ Moore,D.J. Moore,CHI,Chicago,136,15,11,62,5.6,14,0,0,4.1,0,0,3,WR,Maryland,Maryland,Big Ten
+Mecole Hardman,Mecole Hardman,KC,Kansas City,136,12,5,62,12.4,20,1,1,5.2,0,0,2,WR,Georgia,Georgia,SEC
+Spencer Rattler,Spencer Rattler,NO,New Orleans,139,4,9,61,6.8,28,1,0,15.3,1,0,3,QB,South Carolina,South Carolina,SEC
+Jared Goff,Jared Goff,DET,Detroit,140,15,32,59,1.8,10,0,0,3.9,0,0,9,QB,California,California,ACC
+Gardner Minshew,Gardner Minshew,LV,Las Vegas,141,10,19,58,3.1,11,0,0,5.8,2,1,5,QB,Washington State,Washington,Big Ten
+Jeff Wilson Jr.,Jeffery Wilson,MIA,Miami,142,7,11,56,5.1,14,0,0,8.0,0,0,3,RB,North Texas,North Texas,The American
+Dak Prescott,Dak Prescott,DAL,Dallas,143,8,13,54,4.2,22,1,1,6.8,0,0,5,QB,Mississippi State,Mississippi St.,SEC
+Tyreek Hill,Tyreek Hill,MIA,Miami,144,15,8,53,6.6,16,0,0,3.5,0,0,2,WR,West Alabama,Alabama,SEC
+Mac Jones,Mac Jones,JAX,Jacksonville,144,8,17,53,3.1,13,0,1,6.6,1,1,6,QB,Alabama,Alabama,SEC
+Calvin Ridley,Calvin Ridley,TEN,Tennessee,146,15,5,51,10.2,19,0,1,3.4,1,1,3,WR,Alabama,Alabama,SEC
+Ronnie Rivers,Ronnie Rivers,LAR,LA Rams,146,15,10,51,5.1,12,0,0,3.4,0,0,5,RB,Fresno State,Fresno St.,Mountain West
+Will Shipley,Will Shipley,PHI,Philadelphia,148,15,20,50,2.5,9,0,0,3.3,0,0,1,RB,Clemson,Clemson,ACC
+Tua Tagovailoa,Tua Tagovailoa,MIA,Miami,149,11,17,49,2.9,13,0,0,4.5,3,0,5,QB,Alabama,Alabama,SEC
+Zay Flowers,Zay Flowers,BAL,Baltimore,150,15,8,47,5.9,19,0,0,3.1,0,0,1,WR,Boston College,Boston College,ACC
+Puka Nacua,Puka Nacua,LAR,LA Rams,151,10,11,46,4.2,9,0,1,4.6,0,0,2,WR,Brigham Young,BYU,Big 12
+Ashton Dulin,Ashton Dulin,IND,Indianapolis,152,13,5,45,9.0,12,0,0,3.5,0,0,2,WR,Malone (OH),,
+J.J. Taylor,J.J. Taylor,HOU,Houston,153,5,10,44,4.4,9,0,0,8.8,0,0,1,RB,Arizona,Arizona,Big 12
+Derius Davis,Derius Davis,LAC,LA Chargers,154,13,10,43,4.3,10,0,0,3.3,0,0,2,WR,Texas Christian,Texas,SEC
+Tank Dell,Nathaniel Dell,HOU,Houston,154,14,9,43,4.8,18,0,0,3.1,0,0,3,WR,Houston,Houston,Big 12
+Marvin Mims Jr.,Marvin Mims,DEN,Denver,154,15,12,43,3.6,17,0,0,2.9,0,0,3,WR,Oklahoma,Oklahoma,SEC
+Jordan Mims,Jordan Mims,NO,New Orleans,157,9,14,42,3.0,9,0,0,4.7,0,0,1,RB,Fresno State,Fresno St.,Mountain West
+Bo Melton,Bo Melton,GB,Green Bay,158,14,6,39,6.5,16,0,0,2.8,0,0,3,WR,Rutgers,Rutgers,Big Ten
+Ricky Pearsall,Ricky Pearsall,SF,San Francisco,158,9,1,39,39.0,39,1,0,4.3,0,0,1,WR,Florida,Florida,SEC
+Tre Tucker,Tre Tucker,LV,Las Vegas,158,15,8,39,4.9,11,0,1,2.6,0,0,3,WR,Cincinnati,Cincinnati,Big 12
+Khalil Herbert,Khalil Herbert,CHI/CIN,Cincinnati,161,12,12,38,3.2,14,0,1,3.2,0,0,4,RB,Virginia Tech,Virginia Tech,ACC
+Marcus Mariota,Marcus Mariota,WSH,Washington,162,2,13,36,2.8,11,0,0,18.0,0,0,3,QB,Oregon,Oregon,Big Ten
+Desmond Ridder,Desmond Ridder,LV,Las Vegas,162,5,9,36,4.0,11,0,0,7.2,1,0,2,QB,Cincinnati,Cincinnati,Big 12
+Malik Washington,Malik Washington,MIA,Miami,162,12,4,36,9.0,18,0,1,3.0,0,0,1,WR,Virginia,Virginia,ACC
+Andy Dalton,Andy Dalton,CAR,Carolina,165,6,11,34,3.1,18,0,0,5.7,2,0,2,QB,Texas Christian,Texas,SEC
+Rasheen Ali,Rasheen Ali,BAL,Baltimore,165,4,9,34,3.8,9,0,0,8.5,0,0,2,RB,Marshall,Marshall,Sun Belt
+DJ Turner,DJ Turner,LV,Cincinnati,167,12,5,33,6.6,18,0,1,2.8,0,0,1,DB,Michigan,Michigan,Big Ten
+Deuce Vaughn,Deuce Vaughn,DAL,Dallas,167,6,11,33,3.0,7,0,0,5.5,0,0,0,RB,Kansas State,Kansas,Big 12
+Tommy DeVito,Tommy DeVito,NYG,NY Giants,169,3,8,32,4.0,17,0,0,10.7,0,0,1,QB,Illinois,Illinois,Big Ten
+Ja'Marr Chase,Ja'Marr Chase,CIN,Cincinnati,169,15,3,32,10.7,14,0,0,2.1,0,0,2,WR,Louisiana State,Louisiana,Sun Belt
+Jase McClellan,Jase McClellan,ATL,Atlanta,169,2,13,32,2.5,8,0,0,16.0,0,0,2,RB,Alabama,Alabama,SEC
+Xavier Smith,Xavier Smith,LAR,LA Rams,172,13,2,30,15.0,24,1,0,2.3,0,0,1,WR,Florida A&M,Florida,SEC
+Brian Thomas Jr.,Brian Thomas,JAX,Jacksonville,172,15,5,30,6.0,13,0,0,2.0,0,0,2,WR,Louisiana State,Louisiana,Sun Belt
+Rashid Shaheed,Rashid Shaheed,NO,New Orleans,174,6,6,29,4.8,13,0,0,4.8,0,0,2,WR,Weber State,,
+Jalen McMillan,Jalen McMillan,TB,Tampa Bay,175,11,2,28,14.0,17,0,0,2.5,0,0,2,WR,Washington,Washington,Big Ten
+DeeJay Dallas,DeeJay Dallas,ARI,Arizona,176,15,8,27,3.4,7,0,0,1.8,0,0,3,RB,Miami,Miami (FL),ACC
+Kyle Juszczyk,Kyle Juszczyk,SF,San Francisco,177,15,5,26,5.2,14,0,1,1.7,1,1,1,RB,Harvard,,
+Hassan Haskins,Hassan Haskins,LAC,LA Chargers,177,15,14,26,1.9,5,0,1,1.7,1,1,6,RB,Michigan,Michigan,Big Ten
+Malachi Corley,Malachi Corley,NYJ,NY Jets,177,8,2,26,13.0,18,0,0,3.3,1,1,1,WR,Western Kentucky,Kentucky,SEC
+Joe Flacco,Joe Flacco,IND,Indianapolis,180,6,8,25,3.1,21,1,0,4.2,1,1,2,QB,Delaware,,
+Matthew Stafford,Matthew Stafford,LAR,LA Rams,180,15,24,25,1.0,15,0,0,1.7,2,0,7,QB,Georgia,Georgia,SEC
+Eric Gray,Eric Gray,NYG,NY Giants,180,15,13,25,1.9,6,0,0,1.7,1,1,1,RB,Oklahoma,Oklahoma,SEC
+Greg Dortch,Greg Dortch,ARI,Arizona,183,15,4,24,6.0,8,0,0,1.6,1,0,1,WR,Wake Forest,Wake Forest,ACC
+Xavier Legette,Xavier Legette,CAR,Carolina,183,14,6,24,4.0,8,0,0,1.7,0,0,2,WR,South Carolina,South Carolina,SEC
+Jakobi Meyers,Jakobi Meyers,LV,Las Vegas,185,13,2,23,11.5,20,1,0,1.8,0,0,1,WR,North Carolina State,North Carolina,ACC
+Travis Homer,Travis Homer,CHI,Chicago,185,10,6,23,3.8,6,0,0,2.3,0,0,2,RB,Miami,Miami (FL),ACC
+Hunter Luepke,Hunter Luepke,DAL,Dallas,185,14,9,23,2.6,6,0,0,1.6,0,0,4,RB,North Dakota State,NC State,ACC
+Mike Boone,Mike Boone,CAR,Carolina,188,4,7,22,3.1,9,0,0,5.5,0,0,1,RB,Cincinnati,Cincinnati,Big 12
+Jonathan Ward,Jonathan Ward,PIT,Pittsburgh,188,4,5,22,4.4,7,0,0,5.5,0,0,1,RB,Central Michigan,Michigan,Big Ten
+Jake Haener,Jake Haener,NO,New Orleans,188,8,11,22,2.0,9,0,0,2.8,0,0,0,QB,Fresno State,Fresno St.,Mountain West
+Jaxon Smith-Njigba,Jaxon Smith-Njigba,SEA,Seattle,188,15,4,22,5.5,8,0,0,1.5,0,0,1,WR,Ohio State,Ohio State,Big Ten
+Jonathon Brooks,Jonathon Brooks,CAR,Carolina,188,3,9,22,2.4,9,0,0,7.3,0,0,0,RB,Texas,Texas,SEC
+Ashtyn Davis,Ashtyn Davis,NYJ,NY Jets,193,13,1,21,21.0,21,1,0,1.6,0,0,1,DB,California,California,ACC
+Dalvin Cook,Dalvin Cook,DAL,Dallas,194,2,8,20,2.5,4,0,0,10.0,0,0,0,RB,Florida State,Florida,SEC
+Jordan Addison,Jordan Addison,MIN,Minnesota,194,13,3,20,6.7,9,0,1,1.5,0,0,1,WR,Southern California,Southern California,Big Ten
+Michael Carter,Michael Carter,ARI,Arizona,196,1,5,18,3.6,6,0,0,18.0,0,0,1,RB,North Carolina,North Carolina,ACC
+Michael Carter,Michael Carter,ARI,NY Jets,196,1,5,18,3.6,6,0,0,18.0,0,0,1,DB,Duke,Duke,ACC
+Aidan O'Connell,Aidan O'Connell,LV,Las Vegas,196,7,14,18,1.3,13,0,1,2.6,2,2,7,QB,Purdue,Purdue,Big Ten
+Dyami Brown,Dyami Brown,WSH,Washington,196,15,2,18,9.0,14,0,0,1.2,0,0,1,WR,North Carolina,North Carolina,ACC
+Wan'Dale Robinson,Wan'Dale Robinson,NYG,NY Giants,196,15,3,18,6.0,14,0,0,1.2,0,0,1,WR,Kentucky,Kentucky,SEC
+Darius Slayton,Darius Slayton,NYG,NY Giants,200,14,2,17,8.5,11,0,0,1.2,0,0,1,WR,Auburn,Auburn,SEC
+Alec Ingold,Alec Ingold,MIA,Miami,200,13,10,17,1.7,6,0,1,1.3,2,1,6,RB,Wisconsin,Wisconsin,Big Ten
+Aaron Shampklin,Aaron Shampklin,PIT,Pittsburgh,200,3,6,17,2.8,5,0,0,5.7,0,0,1,RB,Harvard,,
+Cooper Rush,Cooper Rush,DAL,Dallas,203,11,25,16,0.6,9,0,0,1.5,7,2,4,QB,Central Michigan,Michigan,Big Ten
+DeMario Douglas,Demario Douglas,NE,New England,203,15,3,16,5.3,9,0,0,1.1,0,0,0,WR,Liberty,Liberty,CUSA
+MarShawn Lloyd,MarShawn Lloyd,GB,Green Bay,205,1,6,15,2.5,5,0,0,15.0,0,0,0,RB,Southern California,Southern California,Big Ten
+Rome Odunze,Rome Odunze,CHI,Chicago,205,15,3,15,5.0,8,0,0,1.0,0,0,1,WR,Washington,Washington,Big Ten
+Curtis Samuel,Curtis Samuel,BUF,Buffalo,207,13,5,14,2.8,7,0,0,1.1,0,0,0,WR,Ohio State,Ohio State,Big Ten
+Trey Lance,Trey Lance,DAL,Dallas,207,2,4,14,3.5,11,0,0,7.0,0,0,2,QB,North Dakota State,NC State,ACC
+Brock Bowers,Brock Bowers,LV,Las Vegas,207,15,4,14,3.5,12,0,0,0.9,0,0,2,TE,Georgia,Georgia,SEC
+Sione Vaki,Sione Vaki,DET,Detroit,207,14,6,14,2.3,7,0,0,1.0,0,0,0,RB,Utah,Utah,Big 12
+Raheem Blackshear,Raheem Blackshear,CAR,Carolina,211,14,3,13,4.3,5,0,0,0.9,0,0,0,RB,Virginia Tech,Virginia Tech,ACC
+Jahan Dotson,Jahan Dotson,PHI,Philadelphia,211,15,1,13,13.0,13,0,0,0.9,0,0,1,WR,Penn State,Penn St.,Big Ten
+Jermar Jefferson,Jermar Jefferson,DET,Detroit,211,1,3,13,4.3,5,0,0,13.0,0,0,1,RB,Oregon State,Oregon,Big Ten
+Terrell Jennings,Terrell Jennings,NE,New England,211,2,5,13,2.6,5,0,0,6.5,0,0,0,RB,Florida A&M,Florida,SEC
+Taylor Heinicke,Taylor Heinicke,LAC,LA Chargers,215,3,1,12,12.0,12,0,0,4.0,0,0,0,QB,Old Dominion,Old Dominion,Sun Belt
+Kenny Pickett,Kenny Pickett,PHI,Philadelphia,215,4,6,12,2.0,8,0,0,3.0,0,0,1,QB,Pittsburgh,Pittsburgh,ACC
+Josh Downs,Josh Downs,IND,Indianapolis,215,12,1,12,12.0,13,0,0,1.0,0,0,1,WR,North Carolina,North Carolina,ACC
+Velus Jones Jr.,Velus Jones,CHI/CAR,Carolina,218,2,2,11,5.5,6,0,0,5.5,0,0,1,WR,Tennessee,Tennessee,SEC
+Matthew Hayball,Matt Hayball,NO,New Orleans,218,14,1,11,11.0,11,0,0,0.8,0,0,1,P,Vanderbilt,Vanderbilt,SEC
+Tyreik McAllister,Tyreik McAllister,LV,Las Vegas,218,3,2,11,5.5,10,0,0,3.7,0,0,1,RB,Charleston,,
+Cooper Kupp,Cooper Kupp,LAR,LA Rams,221,11,2,10,5.0,9,0,0,0.9,0,0,1,WR,Eastern Washington,Washington,Big Ten
+C.J. Ham,C.J. Ham,MIN,Minnesota,221,15,2,10,5.0,8,0,1,0.7,0,0,1,RB,Augustana (SD),,
+Blake Watson,Blake Watson,DEN,Denver,221,2,4,10,2.5,7,0,0,5.0,0,0,2,RB,Memphis,Memphis,The American
+George Holani,George Holani,SEA,Seattle,221,3,3,10,3.3,8,0,0,3.3,0,0,1,RB,Boise State,Boise St.,Mountain West
+Tim Boyle,Tim Boyle,MIA/NYG,NY Giants,225,3,3,9,3.0,6,0,0,3.0,0,0,1,QB,Eastern Kentucky,Kentucky,SEC
+Kevin Austin Jr.,Kevin Austin,NO,New Orleans,225,5,1,9,9.0,9,0,0,1.8,0,0,0,WR,Notre Dame,Notre Dame,FBS Independent
+Stefon Diggs,Stefon Diggs,HOU,Houston,227,8,3,8,2.7,6,0,1,1.0,0,0,1,WR,Maryland,Maryland,Big Ten
+Troy Franklin,Troy Franklin,DEN,Denver,227,14,2,8,4.0,5,0,0,0.6,0,0,0,WR,Oregon,Oregon,Big Ten
+Tyrod Taylor,Tyrod Taylor,NYJ,NY Jets,229,1,1,7,7.0,7,0,0,7.0,0,0,0,QB,Virginia Tech,Virginia Tech,ACC
+Tutu Atwell,Deven Thompkins,LAR,Carolina Panthers,229,15,2,7,3.5,7,0,0,0.5,0,0,0,WR,Utah State,Utah,Big 12
+Chris Olave,Chris Olave,NO,New Orleans,229,8,1,7,7.0,7,0,0,0.9,0,0,1,WR,Ohio State,Ohio State,Big Ten
+Deven Thompkins,Deven Thompkins,CAR,Carolina,229,7,2,7,3.5,9,0,0,1.0,0,0,0,WR,Utah State,Utah,Big 12
+Kendrick Bourne,Kendrick Bourne,NE,New England,233,10,1,6,6.0,6,0,0,0.6,0,0,1,WR,Eastern Washington,Washington,Big Ten
+Diontae Johnson,Dyontae Johnson,BAL/CAR,NY Giants,233,11,2,6,3.0,4,0,0,0.5,0,0,1,LB,Toledo,Toledo,MAC
+Jaylen Waddle,Jaylen Waddle,MIA,Miami,233,14,3,6,2.0,4,0,0,0.4,0,0,0,WR,Alabama,Alabama,SEC
+Amon-Ra St. Brown,Amon-Ra St. Brown,DET,Detroit,233,15,2,6,3.0,10,0,0,0.4,0,0,1,WR,Southern California,Southern California,Big Ten
+Quentin Johnston,Quentin Johnston,LAC,LA Chargers,233,13,3,6,2.0,4,0,0,0.5,0,0,0,WR,Texas Christian,Texas,SEC
+Adonai Mitchell,Adonai Mitchell,IND,Indianapolis,233,15,4,6,1.5,10,0,0,0.4,1,1,1,WR,Texas,Texas,SEC
+Michael Burton,Michael Burton,DEN,Denver,239,15,6,5,0.8,3,0,1,0.3,0,0,3,RB,Rutgers,Rutgers,Big Ten
+Mark Andrews,Mark Andrews,BAL,Baltimore,239,15,3,5,1.7,2,0,0,0.3,0,0,3,TE,Oklahoma,Oklahoma,SEC
+Marcus Jones,Marcus Jones,NE,New England,239,14,1,5,5.0,5,0,0,0.4,0,0,0,DB,Houston,Houston,Big 12
+Jonathan Mingo,Jonathan Mingo,DAL/CAR,Dallas,239,15,2,5,2.5,3,0,0,0.3,1,1,0,WR,Mississippi,Mississippi St.,SEC
+Garrett Wilson,Garrett Wilson,NYJ,NY Jets,239,15,1,5,5.0,5,0,0,0.3,0,0,1,WR,Ohio State,Ohio State,Big Ten
+Brandon Allen,Brandon Allen,SF,San Francisco,244,3,3,4,1.3,6,0,0,1.3,0,0,0,QB,Arkansas,Arkansas,SEC
+Marquez Valdes-Scantling,Marquez Valdes-Scantling,BUF/NO,New Orleans,244,12,1,4,4.0,4,0,0,0.3,0,0,0,WR,South Florida,Florida,SEC
+Ke'Shawn Vaughn,Ke'Shawn Vaughn,SF,San Francisco,244,3,2,4,2.0,3,0,0,1.3,0,0,0,RB,Vanderbilt,Vanderbilt,SEC
+Skylar Thompson,Skylar Thompson,MIA,Miami,244,3,1,4,4.0,4,0,0,1.3,0,0,0,QB,Kansas State,Kansas,Big 12
+Khalil Shakir,Khalil Shakir,BUF,Buffalo,244,14,2,4,2.0,2,0,0,0.3,0,0,0,WR,Boise State,Boise St.,Mountain West
+Tucker Kraft,Tucker Kraft,GB,Green Bay,244,14,2,4,2.0,2,0,0,0.3,0,0,2,TE,South Dakota State,NC State,ACC
+Tyler Boyd,Tyler Boyd,TEN,Tennessee,250,15,1,3,3.0,3,0,0,0.2,0,0,1,WR,Pittsburgh,Pittsburgh,ACC
+Darrynton Evans,Darrynton Evans,CHI,Chicago,250,3,3,3,1.0,4,0,0,1.0,0,0,0,RB,Appalachian State,NC State,ACC
+Devin Duvernay,Devin Duvernay,JAX,Jacksonville,250,11,4,3,0.8,4,0,0,0.3,0,0,1,WR,Texas,Texas,SEC
+Justin Jefferson,Justin Jefferson,MIN,Minnesota,250,15,1,3,3.0,3,0,0,0.2,0,0,0,WR,Louisiana State,Louisiana,Sun Belt
+Michael Penix Jr.,Michael Penix,ATL,Atlanta,250,3,4,3,0.8,5,0,0,1.0,0,0,0,QB,Washington,Washington,Big Ten
+Brandin Cooks,Brandin Cooks,DAL,Dallas,255,8,2,2,1.0,5,0,0,0.3,0,0,0,WR,Oregon State,Oregon,Big Ten
+Chris Godwin,Chris Godwin,TB,Tampa Bay,255,7,1,2,2.0,2,0,0,0.3,0,0,1,WR,Penn State,Penn St.,Big Ten
+Terry McLaurin,Terry McLaurin,WSH,Washington,255,15,2,2,1.0,2,0,0,0.1,1,1,0,WR,Ohio State,Ohio State,Big Ten
+Julian Love,Julian Love,SEA,Seattle,255,15,1,2,2.0,2,0,0,0.1,0,0,1,DB,Notre Dame,Notre Dame,FBS Independent
+Hendon Hooker,Hendon Hooker,DET,Detroit,255,3,5,2,0.4,3,0,0,0.7,0,0,1,QB,Tennessee,Tennessee,SEC
+Charlie Kolar,Charlie Kolar,BAL,Baltimore,255,12,1,2,2.0,2,0,0,0.2,0,0,1,TE,Iowa State,Iowa,Big Ten
+Trey McBride,Trey McBride,ARI,Arizona,255,14,1,2,2.0,2,0,1,0.1,0,0,1,TE,Colorado State,Colorado,Big 12
+British Brooks,British Brooks,HOU,Houston,255,5,1,2,2.0,2,0,0,0.4,0,0,0,RB,North Carolina,North Carolina,ACC
+Sam Howell,Sam Howell,SEA,Seattle,255,3,1,2,2.0,2,0,0,0.7,0,0,0,QB,North Carolina,North Carolina,ACC
+Dell Pettus,Dell Pettus,NE,New England,255,15,1,2,2.0,2,0,0,0.1,0,0,1,DB,Troy State,Troy,Sun Belt
+Ainias Smith,Ainias Smith,PHI,Philadelphia,255,5,1,2,2.0,2,0,0,0.4,0,0,0,WR,Texas A&M,Texas A&M,SEC
+Malik Nabers,Malik Nabers,NYG,NY Giants,255,13,5,2,0.4,4,0,0,0.2,0,0,1,WR,Louisiana State,Louisiana,Sun Belt
+Josh Johnson,Josh Johnson,BAL,Baltimore,267,4,4,1,0.3,2,0,0,0.3,0,0,0,QB,San Diego,San Diego St.,Mountain West
+Travis Kelce,Travis Kelce,KC,Kansas City,267,15,1,1,1.0,1,0,0,0.1,0,0,0,TE,Cincinnati,Cincinnati,Big 12
+Jalen Reeves-Maybin,Jalen Reeves-Maybin,DET,Detroit,267,8,1,1,1.0,1,0,0,0.1,0,0,0,LB,Tennessee,Tennessee,SEC
+Tanner Hudson,Tanner Hudson,CIN,Cincinnati,267,10,1,1,1.0,1,0,0,0.1,0,0,1,TE,Southern Arkansas,Kansas,Big 12
+DeVonta Smith,DeVonta Smith,PHI,Philadelphia,267,12,1,1,1.0,1,0,0,0.1,0,0,0,WR,Alabama,Alabama,SEC
+Laviska Shenault Jr.,Laviska Shenault,LAC/SEA,LA Chargers,267,12,1,1,1.0,1,0,0,0.1,0,0,0,WR,Colorado,Colorado,Big 12
+Elijah Moore,Elijah Moore,CLE,Cleveland,267,15,1,1,1.0,1,0,0,0.1,0,0,0,WR,Mississippi,Mississippi St.,SEC
+Rashee Rice,Rashee Rice,KC,Kansas City,267,4,1,1,1.0,1,0,0,0.3,0,0,1,WR,Southern Methodist,Ga. Southern,Sun Belt
+Treylon Burks,Treylon Burks,TEN,Tennessee,267,5,2,1,0.5,6,0,0,0.2,0,0,0,WR,Arkansas,Arkansas,SEC
+Jaden Hicks,Jaden Hicks,KC,Kansas City,267,15,1,1,1.0,1,0,0,0.1,0,0,0,DB,Washington State,Washington,Big Ten
+Kirk Cousins,Kirk Cousins,ATL,Atlanta,277,14,23,0,0.0,13,0,0,0.0,6,0,2,QB,Michigan State,Michigan,Big Ten
+Carson Wentz,Carson Wentz,KC,Kansas City,277,2,3,0,0.0,2,0,0,0.0,0,0,0,QB,North Dakota State,NC State,ACC
+Kalif Raymond,Kalif Raymond,DET,Detroit,277,11,2,0,0.0,12,0,0,0.0,0,0,1,WR,Holy Cross,,
+JK Scott,JK Scott,LAC,LA Chargers,277,15,1,0,0.0,0,0,0,0.0,1,0,0,P,Alabama,Alabama,SEC
+Tyler Conklin,Tyler Conklin,NYJ,NY Jets,277,14,1,0,0.0,0,0,0,0.0,0,0,0,TE,Central Michigan,Michigan,Big Ten
+Steven Sims,David Moore,HOU,Carolina Panthers,277,7,1,0,0.0,0,0,0,0.0,0,0,0,WR,East Central (OK),East,Sun Belt
+Jake Bailey,Jake Bailey,MIA,Miami,277,15,1,0,0.0,0,0,0,0.0,0,0,0,P,Stanford,Stanford,ACC
+David Moore,David Moore,CAR,Carolina,277,15,1,0,0.0,0,0,0,0.0,0,0,0,WR,East Central (OK),East,Sun Belt
+Christian Watson,Christian Watson,GB,Green Bay,277,13,2,0,0.0,4,0,0,0.0,0,0,0,WR,North Dakota State,NC State,ACC
+Dylan Laube,Dylan Laube,LV,Las Vegas,277,8,1,0,0.0,0,0,0,0.0,1,1,0,RB,New Hampshire,,
+Ja'Lynn Polk,Ja'Lynn Polk,NE,New England,277,14,1,0,0.0,0,0,0,0.0,0,0,0,WR,Washington,Washington,Big Ten
+Kameron Johnson,Kameron Johnson,TB,Tampa Bay,277,4,1,0,0.0,0,0,0,0.0,0,0,0,WR,Barton,,
+Jonnu Smith,Jonnu Smith,MIA,Miami,289,15,2,-1,-0.5,0,0,0,-0.1,0,0,0,TE,Florida International,Florida,SEC
+Myles Gaskin,Myles Gaskin,MIN,Jacksonville,289,5,3,-1,-0.3,2,0,0,-0.2,0,0,0,RB,Washington,Washington,Big Ten
+Jermaine Jackson,Jermaine Jackson,NO,New Orleans,289,4,1,-1,-1.0,-1,0,0,-0.3,0,0,0,WR,Idaho,,
+Nick Mullens,Nick Mullens,MIN,Minnesota,292,4,3,-2,-0.7,0,0,0,-0.5,0,0,0,QB,Southern Mississippi,Southern Miss.,Sun Belt
+Jake Browning,Jake Browning,CIN,Cincinnati,292,3,2,-2,-1.0,-1,0,0,-0.7,0,0,0,QB,Washington,Washington,Big Ten
+Jarrett Stidham,Jarrett Stidham,DEN,Denver,292,2,2,-2,-1.0,-1,0,0,-1.0,0,0,0,QB,Auburn,Auburn,SEC
+Kyle Trask,Kyle Trask,TB,Tampa Bay,292,3,2,-2,-1.0,-1,0,0,-0.7,0,0,0,QB,Florida,Florida,SEC
+Tavierre Thomas,Tavierre Thomas,TB,Tampa Bay,292,15,1,-2,-2.0,-2,0,0,-0.1,0,0,0,DB,Ferris State,NC State,ACC
+Jalen Reagor,Jalen Reagor,LAC,LA Chargers,297,8,3,-3,-1.0,1,0,0,-0.4,0,0,0,WR,Texas Christian,Texas,SEC
+Drake London,Drake London,ATL,Atlanta,297,15,1,-3,-3.0,-3,0,0,-0.2,0,0,0,WR,Southern California,Southern California,Big Ten
+Drew Sample,Drew Sample,CIN,Cincinnati,299,15,1,-4,-4.0,-4,0,0,-0.3,0,0,0,TE,Washington,Washington,Big Ten
+Kadarius Toney,Jalen Nailor,CLE,Minnesota Vikings,299,3,2,-4,-2.0,3,0,0,-1.3,0,0,0,WR,Michigan State,Michigan,Big Ten
+Cade Otton,Cade Otton,TB,Tampa Bay,299,14,1,-4,-4.0,-4,0,0,-0.3,0,0,0,TE,Washington,Washington,Big Ten
+Jalen Nailor,Jalen Nailor,MIN,Minnesota,299,15,3,-4,-1.3,3,0,0,-0.3,0,0,1,WR,Michigan State,Michigan,Big Ten
+Cedric Tillman,Cedric Tillman,CLE,Cleveland,303,11,1,-5,-5.0,-5,0,0,-0.5,0,0,0,WR,Tennessee,Tennessee,SEC
+Jha'Quan Jackson,Jha'Quan Jackson,TEN,Tennessee,303,12,1,-5,-5.0,-5,0,0,-0.4,0,0,0,WR,Tulane,Tulane,The American
+Clayton Tune,Clayton Tune,ARI,Arizona,305,5,6,-6,-1.0,2,0,0,-1.2,1,1,1,QB,Houston,Houston,Big 12
+George Pickens,George Pickens,PIT,Pittsburgh,305,12,2,-6,-3.0,4,0,0,-0.5,0,0,0,WR,Georgia,Georgia,SEC
+Tyson Bagent,Tyson Bagent,CHI,Chicago,307,4,6,-7,-1.2,-1,0,0,-1.8,0,0,0,QB,Shepherd,,
+Mitchell Trubisky,Mitchell Trubisky,BUF,Buffalo,308,7,11,-10,-0.9,0,0,0,-1.4,0,0,0,QB,North Carolina,North Carolina,ACC
